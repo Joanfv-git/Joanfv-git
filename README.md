@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ¡Hola! Soy [Tu Nombre] 👋
+
+Soy un desarrollador web front-end apasionado por crear interfaces de usuario atractivas y funcionales.
+
+## 🔧 Tecnologías y Herramientas
+- HTML, CSS, JavaScript
+- React, Redux
+- Git, GitHub
+- [Otras tecnologías relevantes]
+
+## 🚀 Proyectos Destacados
+- [Nombre del Proyecto 1](enlace-al-repo): Descripción breve del proyecto.
+- [Nombre del Proyecto 2](enlace-al-repo): Descripción breve del proyecto.
+- [Nombre del Proyecto 3](enlace-al-repo): Descripción breve del proyecto.
+
+## 📈 Estadísticas de GitHub
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)](https://github.com/tu-usuario)
+
+## 📫 Contáctame
+- [LinkedIn](enlace-a-linkedin)
+- [Correo Electrónico](mailto:tu-email)
+
+¡Gracias por visitar mi perfil!
