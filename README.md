@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Joanfv-git/Joanfv-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Joan 👋
 
 Soy un desarrollador web front-end apasionado por crear interfaces de usuario atractivas y funcionales.
 
@@ -30,10 +29,10 @@ Soy un desarrollador web front-end apasionado por crear interfaces de usuario at
 - [Nombre del Proyecto 3](enlace-al-repo): Descripción breve del proyecto.
 
 ## 📈 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)](https://github.com/tu-usuario)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Joanfv-git&show_icons=true)](https://github.com/Joanfv-git)
 
 ## 📫 Contáctame
 - [LinkedIn](enlace-a-linkedin)
-- [Correo Electrónico](mailto:tu-email)
+- [Correo Electrónico](mailto:joanfernandezvilana@gmail.com)
 
 ¡Gracias por visitar mi perfil!
