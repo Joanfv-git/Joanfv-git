@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Soy un desarrollador web front-end apasionado por crear interfaces de usuario atractivas y funcionales.
 
 ## 🔧 Tecnologías y Herramientas
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript 
 - React, Redux
 - Git, GitHub
 - [Otras tecnologías relevantes]
