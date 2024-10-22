@@ -15,24 +15,23 @@ Here are some ideas to get you started:
 -->
 # ¡Hola! Soy Joan 👋
 
-Soy un desarrollador web front-end apasionado por crear interfaces de usuario atractivas y funcionales.
+Soy un desarrollador web front-end apasionado por crear interfaces de usuario atractivas y funcionales. Abierto a descubrir nuevos campos y tecnologías
 
 ## 🔧 Tecnologías y Herramientas
 - HTML, CSS, JavaScript 
-- React, Redux
+- React, Vue
 - Git, GitHub
-- [Otras tecnologías relevantes]
+
 
 ## 🚀 Proyectos Destacados
-- [Nombre del Proyecto 1](enlace-al-repo): Descripción breve del proyecto.
-- [Nombre del Proyecto 2](enlace-al-repo): Descripción breve del proyecto.
-- [Nombre del Proyecto 3](enlace-al-repo): Descripción breve del proyecto.
+- Feedback-App (https://github.com/Joanfv-git/feedback-app)
+
 
 ## 📈 Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Joanfv-git&show_icons=true)](https://github.com/Joanfv-git)
 
 ## 📫 Contáctame
-- [LinkedIn](enlace-a-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/joan-fern%C3%A1ndez-vilana-3aa2941b2/)
 - [Correo Electrónico](mailto:joanfernandezvilana@gmail.com)
 
 ¡Gracias por visitar mi perfil!
